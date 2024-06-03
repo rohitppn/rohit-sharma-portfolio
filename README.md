@@ -14,6 +14,8 @@
 ## Built With
 
 My personal portfolio <a href="#" target="_blank">RS-dev</a> <br/>
+[Download my CV](https://github.com/rohitppn/rohit-sharma-portfolio/blob/c54ee48a0932fd2ede8feb12b54fbf9aca673a9f/public/rohitCv.pdf)
+
 
 This project built using these technologies:
 - React.js
