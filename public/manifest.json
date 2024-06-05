@@ -1,6 +1,6 @@
 {
-  "name": "Portfolio React Application",
-  "short_name": "React-Portfolio",
+  "name": "Rohit Sharma Portfolio Application",
+  "short_name": "Rohit Sharma Portfolio",
   "icons": [
     {
       "src": "/icons/48.png",
@@ -38,7 +38,7 @@
   "orientation": "portrait-primary",
   "background_color": "#000",
   "theme_color": "#181a27",
-  "description": "A simple Portfolio App, implementing a lot of PWA",
+  "description": "Reach Rohit Sharma at mail2rohitsharmappn@gmail.com",
   "dir": "ltr",
   "lang": "en-US"
 }
