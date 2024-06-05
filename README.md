@@ -8,7 +8,7 @@
     <img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FVolodumurSN%2FReact-Portfolio.svg?type=shield" />
   </a>  -->
   
-  <img alt="Demo" src="https://res.cloudinary.com/dx6tl6aa2/image/upload/v1630345819/portfolio/promo/React-portfolio-github-readme-v2_scxxgs.png" />
+  <img alt="Demo" src="https://asset.cloudinary.com/dkmyhde0k3c74256e9c90976a0346cc79067033fe" />
 </div>
 
 ## Built With
