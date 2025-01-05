@@ -21,7 +21,7 @@ My personal portfolio <a href="https://easysisy.com/" target="_blank">Rs-deve</a
 =======
 My personal portfolio <a href="#" target="_blank">RS-dev</a> <br/>
 [Download my CV](https://github.com/rohitppn/rohit-sharma-portfolio/blob/c54ee48a0932fd2ede8feb12b54fbf9aca673a9f/public/rohitCv.pdf)
-[Download my CV](https://raw.githubusercontent.com/rohitppn/rohit-sharma-portfolio/main/public/RidhiCV(1).pdf)
+[Download my CV](https://raw.githubusercontent.com/rohitppn/rohit-sharma-portfolio/main/public/RidhiCV.pdf)
 
 
 
